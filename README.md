@@ -5,14 +5,14 @@ I am a first-semester BS Computer Science student at NUST PNEC, learning C progr
 
 ## What I am Learning
 
-. Basic Input and Output
-. Variables and Data Types
-. Operators
-. If-Else Statements
-. Switch Statements
-. Loops
-. Functions
-. Arrays
+-Basic Input and Output
+- Variables and Data Types
+- Operators
+- If-Else Statements
+- Switch Statements
+- Loops
+- Functions
+- Arrays
 
 ## My Goal
 
